@@ -7,7 +7,7 @@ st.set_page_config(layout="wide", page_title="AI Voice Assistant", page_icon='ðŸ
 st.title("Sino-Pak Center Of AI (SPCAI)")
 
 # ------------------------------
-# Updated Project Description (with your information)
+#  Project Description 
 # ------------------------------
 st.markdown("""
 <p style="font-size:1.1rem; line-height:1.7; color:#EAEAEA;">
@@ -34,8 +34,8 @@ through AI-powered voice recognition and contextual response generation.
 
 <p style="font-size:1.1rem; line-height:1.7; color:#EAEAEA;">
 For more information, visit the 
-<a href="https://www.ajman.ac.ae/en/research/research-at-au/research-centers/artificial-intelligence-research-center-airc" target="_blank" style="color:#4FC3F7; text-decoration:none;">
-AIRC official website
+<a href="https://github.com/hamzamehmoodkhan1245/AI-Voice-Assistant" target="_blank" style="color:#4FC3F7; text-decoration:none;">
+SPCAI official website
 </a>.
 </p>
 """, unsafe_allow_html=True)
