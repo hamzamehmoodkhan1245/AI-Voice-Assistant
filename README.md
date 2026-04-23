@@ -104,7 +104,7 @@ Supports intelligent automation such as:
 
 ### 📍 Live Location Feature
 <p align="center">
-  <img src="assets/Live_Location.png" width="700"/>
+  <img src="assets/Live Location.png" width="700"/>
 </p>
 
 ---
