@@ -1,5 +1,5 @@
 # 🚀 AI Voice Assistant (Streamlit + Speech Recognition)
-
+## 📌 About This Project
 A real-time **AI-powered Voice Assistant** that listens, understands, and responds to human speech.  
 It combines **Speech Recognition, Natural Language Processing, and Text-to-Speech (TTS)** with a modern **Streamlit web interface** to deliver a seamless conversational experience.
 
