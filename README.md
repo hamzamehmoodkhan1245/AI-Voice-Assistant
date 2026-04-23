@@ -93,6 +93,26 @@ Supports intelligent automation such as:
 
 💻 UI Layer  
 → Streamlit Dashboard  
+## 📸 Project Screenshots
+
+### 🏠 Home Interface
+<p align="center">
+  <img src="assets/Home.png" width="700"/>
+</p>
+
+---
+
+### 📍 Live Location Feature
+<p align="center">
+  <img src="assets/Live_Location.png" width="700"/>
+</p>
+
+---
+
+### 🤖 Robot Working Demo
+<p align="center">
+  <img src="assets/Robot_Working.png" width="700"/>
+</p>
 
 ---
 
